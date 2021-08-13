@@ -1,0 +1,38 @@
+.Title{
+    font-size: 200%;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    background-color:rgba(255, 99, 71, 0.664);
+    border:black;
+    border-style:solid;
+    color:black;
+    margin-top: 210px;
+    margin-left: 30px;
+    margin-right: 30px;
+    padding: 0px;
+    
+}
+body{
+    background-image:url(./img/new.jpg) ;
+}
+.Main{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: flexbox;
+    background-color: rgba(230, 179, 52, 0.747);
+    font-size: 200%;
+    color:black;
+    text-align: center;
+    margin-left: 660px;
+    margin-right: 660px;
+    margin-bottom: 200px;
+    margin-top: 30px;
+    border:black;
+    border-style: solid;
+}
+button{
+    background-color: rgba(5, 170, 170, 0.815) ;
+    color: black;
+    font-size: 100%;
+    border: teal;
+    border-style: solid;
+}
